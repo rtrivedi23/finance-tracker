@@ -7,12 +7,14 @@ backend/**/*.pyo
 backend/*.db
 backend/**/*.db
 backend/.env
+backend/.env.local
 backend/uploads/
 
 # Node
 frontend/node_modules/
 frontend/dist/
 frontend/.env
+frontend/.env.local
 
 # Misc
 .DS_Store
