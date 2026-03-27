@@ -1,0 +1,17 @@
+[
+  {"name": "Income", "icon": "💰", "color": "#22c55e", "display_order": 1},
+  {"name": "Food & Dining", "icon": "🍽️", "color": "#f97316", "display_order": 2},
+  {"name": "Groceries", "icon": "🛒", "color": "#84cc16", "display_order": 3},
+  {"name": "Transport", "icon": "🚗", "color": "#3b82f6", "display_order": 4},
+  {"name": "Housing & Rent", "icon": "🏠", "color": "#8b5cf6", "display_order": 5},
+  {"name": "Utilities", "icon": "⚡", "color": "#eab308", "display_order": 6},
+  {"name": "Shopping", "icon": "🛍️", "color": "#ec4899", "display_order": 7},
+  {"name": "Entertainment", "icon": "🎬", "color": "#06b6d4", "display_order": 8},
+  {"name": "Healthcare", "icon": "🏥", "color": "#14b8a6", "display_order": 9},
+  {"name": "Insurance", "icon": "🛡️", "color": "#64748b", "display_order": 10},
+  {"name": "Investments", "icon": "📈", "color": "#7c3aed", "display_order": 11},
+  {"name": "Education", "icon": "📚", "color": "#0ea5e9", "display_order": 12},
+  {"name": "Travel", "icon": "✈️", "color": "#f59e0b", "display_order": 13},
+  {"name": "Cash Withdrawal", "icon": "💵", "color": "#6b7280", "display_order": 14},
+  {"name": "Miscellaneous", "icon": "📦", "color": "#9ca3af", "display_order": 15}
+]
